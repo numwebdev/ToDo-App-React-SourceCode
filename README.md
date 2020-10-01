@@ -1,5 +1,9 @@
 This ToDo-App was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+A Simple Todo App
+
 ## Available Scripts
 
 In the project directory, you can run:
